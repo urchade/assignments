@@ -208,8 +208,18 @@ Build and train a zero-shot text classification model.
 
 ### **6. Deliverables**
 
-- **Trained Model Uploaded to Hugging Face:**
-  After training the model, upload it to Hugging Face Hub. 
-  you can train the model on google colab for instance.
+- **Full Implementation:**
+  - Complete implementation of the model, data processing, training script, and setup as described in the assignment.
 
-**Good Luck!**
+- **Trained Model Uploaded to Hugging Face:**
+  - After training the model, upload it to the Hugging Face Hub. The model should be uploaded to a private repository and accessible only to authorized users.
+  - You may train the model on Google Colab and provide Colab instructions in the README for ease of use.
+
+- **Bonus Tasks:** (*Optional*)
+  - **Novel/Original Architecture:** Implement a novel or original model architecture to improve performance.
+  - **Diverse Variants:** Implement diverse model variants, such as:
+    - **Late Interaction:** [Late Interaction Paper](https://arxiv.org/abs/2004.12832)
+    - **Polyencoder:** [Polyencoder Paper](https://arxiv.org/abs/1905.01969)
+  - **Benchmark Setup:** Establish benchmarks for model performance and training speed, and compare different model variants.
+  - **Pros and Cons Analysis:** Analyze the pros and cons of different approaches used in zero-shot text classification.
+  - **Literature Review:** Write a concise literature review of zero-shot text classification approaches, including LLM-based methods, prompting strategies, and BiEncoder architectures.
