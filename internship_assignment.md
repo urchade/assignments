@@ -208,7 +208,7 @@ Build and train a zero-shot text classification model.
 
 ### **6. Deliverables**
 
-- **Trained Model Uploaded to Hugging Face (Private Repository):**
+- **Trained Model Uploaded to Hugging Face:**
   After training the model, upload it to Hugging Face Hub. 
   you can train the model on google colab for instance.
 
