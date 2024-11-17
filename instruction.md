@@ -223,3 +223,5 @@ Build and train a zero-shot text classification model.
   - **Benchmark Setup:** Establish benchmarks for model performance and training speed, and compare different model variants.
   - **Pros and Cons Analysis:** Analyze the pros and cons of different approaches used in zero-shot text classification.
   - **Literature Review:** Write a concise literature review of zero-shot text classification approaches, including LLM-based methods, prompting strategies, and BiEncoder architectures.
+  - **Synthetic Data Generation Script:** Implement a script for generating text classification synthetic data using the OpenAI API.
+  - **LLM as a Judge for Evaluation:** A script that uses an LLM (eg gpt-4o) to evaluate the model's predictions.
