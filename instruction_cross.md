@@ -171,7 +171,7 @@ class CrossEncoderModel(nn.Module):
 
 ---
 
-## Part 3: Test Your Implementation
+## Part 2: Test Your Implementation
 
 After filling in your code, run a quick test:
 
