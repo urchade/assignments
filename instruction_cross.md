@@ -203,7 +203,7 @@ Check that:
 
 ---
 
-## Part 4: Discussion
+## Part 3: Discussion
 
 1. **Scalability**  
    - Why might a Cross-Encoder become computationally expensive if you have many labels?  
@@ -213,8 +213,8 @@ Check that:
    - In a Cross-Encoder, each label’s representation is conditioned on the text *and* the other labels.  
    - Discuss how this might help performance compared to a Bi-Encoder.
 
-3. **Future Extensions**  
+3. **Future Extensions** (Bonus)
    - Could you modify the classifier to produce multi-class probabilities instead of multi-label?  
    - Could you incorporate attention pooling over the text, rather than focusing on `[CLS]` tokens?
 
-Prepare short answers to these questions along with your code submission.
+Prepare short answers to these questions along with your code.
